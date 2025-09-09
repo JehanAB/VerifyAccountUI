@@ -8,7 +8,7 @@ Users can seamlessly input a multi‑digit code with auto‑focus and smooth UX�
 ## 🎥 Demo
 
 <p align="center">
-  <img src="demo.gif" alt="Demo of VerifyAccountUI" width="500"/>
+  <img src="Demo.gif" alt="Demo of VerifyAccountUI" width="500"/>
 </p>
 
 ---
